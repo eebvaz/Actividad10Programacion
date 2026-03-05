@@ -19,6 +19,10 @@ for (int i = 1; i <= cantidad; i++)
     productos.Add(codigo, nombre);
 }
 
+foreach (var item in productos)
+{
+    Console.WriteLine(item);
+}
 
          
 
