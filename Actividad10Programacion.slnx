@@ -1,4 +1,22 @@
 <Solution>
   <Project Path="Programa1/Programa1.csproj" />
+  <Project Path="Programa10/Programa10.csproj" Id="1419a5c4-8952-4574-be66-1cd62819f091" />
+  <Project Path="Programa11/Programa11.csproj" Id="bc388448-ac96-49a8-b208-6b60a0c29dde" />
+  <Project Path="Programa12/Programa12.csproj" Id="1edf09db-5dac-4aee-8e4e-1b3ee5d6979f" />
+  <Project Path="Programa13/Programa13.csproj" Id="9002b168-cf12-47a5-b62d-39dc111e0cd6" />
+  <Project Path="Programa14/Programa14.csproj" Id="a089d9cc-566a-4857-905a-2d591dd294f0" />
+  <Project Path="Programa15/Programa15.csproj" Id="eeb1692f-d07e-4e43-81c0-099273ef4a90" />
+  <Project Path="Programa16/Programa16.csproj" Id="afe91890-3a82-4b4b-9523-694bd9fd0f96" />
+  <Project Path="Programa17/Programa17.csproj" Id="757b5814-d1fe-4f01-bed4-62e73f774605" />
+  <Project Path="Programa18/Programa18.csproj" Id="64b7901b-8cf9-40cf-85ce-ef0ca718c406" />
+  <Project Path="Programa19/Programa19.csproj" Id="9b855773-ec4d-460f-8015-94e1644040c3" />
   <Project Path="Programa2/Programa2.csproj" />
+  <Project Path="Programa20/Programa20.csproj" Id="445285c9-c7f5-47fa-855e-bb25e518c236" />
+  <Project Path="Programa3/Programa3.csproj" Id="a960cee5-3d75-4734-8358-82022ccb81f8" />
+  <Project Path="Programa4/Programa4.csproj" Id="5874c523-bd22-4630-a03d-9b1de328a84b" />
+  <Project Path="Programa5/Programa5.csproj" Id="002b6c01-05e2-4465-8d20-0df04d4e96dc" />
+  <Project Path="Programa6/Programa6.csproj" Id="fd57cce4-5170-4a75-b4d7-04cfd0c663b9" />
+  <Project Path="Programa7/Programa7.csproj" Id="9e120bd6-7aa6-4c39-bcc1-b40a183437ee" />
+  <Project Path="Programa8/Programa8.csproj" Id="2c24ea52-4375-45c7-8417-4213693917fb" />
+  <Project Path="Programa9/Programa9.csproj" Id="ea8037a4-a32b-4779-8585-314f100290b7" />
 </Solution>
