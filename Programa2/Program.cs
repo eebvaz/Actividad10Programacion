@@ -9,7 +9,7 @@ int codigo,cantidad=0;
 string nombre;
 
 
-Console.WriteLine("Cantidad de productos: ");
+Console.Write("Cantidad de productos: ");
 cantidad = int.Parse(Console.ReadLine());
 Console.WriteLine("Ingrese el codigo de producto y su nombre");
 for (int i = 1; i <= cantidad; i++)
